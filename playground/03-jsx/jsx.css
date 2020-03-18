@@ -1,0 +1,15 @@
+* {
+  margin: auto;
+  background-color: azure;
+}
+div {
+  text-align: center;
+}
+img {
+  width: 400px;
+  height: 700px;
+}
+
+h1 {
+  margin: 20px;
+}
